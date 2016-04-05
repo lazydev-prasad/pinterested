@@ -27,6 +27,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# gem 'bcrypt', '~> 3.1', '>= 3.1.11'
+gem 'bcrypt-ruby', '~> 3.1', '>= 3.1.5'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
